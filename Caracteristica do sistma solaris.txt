@@ -1,0 +1,104 @@
+Principais Módulos e Abas do Sistema Vision
+1. 📋 Cadastro de Clientes/Pacientes
+Funcionalidades:
+
+Cadastro completo (dados pessoais, histórico de compras, receitas médicas).
+
+Armazenamento de exames (topografia, refração, etc.).
+
+Ficha clínica (se houver integração com consultório).
+
+Filtros por CPF, nome, data de última compra.
+
+2. 👓 Gestão de Estoque
+Funcionalidades:
+
+Cadastro de armações (marca, modelo, cor, preço).
+
+Controle de lentes (monofocais, bifocais, antirreflexo).
+
+Alertas de estoque mínimo.
+
+Movimentações (entradas, saídas, devoluções).
+
+3. 💰 Vendas e Financeiro
+Funcionalidades:
+
+Emissão de orçamentos.
+
+Registro de vendas (à vista, parcelado, cartão).
+
+Nota fiscal eletrônica (NF-e).
+
+Comissão de vendedores.
+
+Relatórios de faturamento.
+
+4. 🗓️ Agendamentos
+Funcionalidades:
+
+Agenda de consultas (oftalmologista/optometrista).
+
+Lembretes por SMS/e-mail.
+
+Bloqueio de horários.
+
+5. 📊 Laudos e Receitas
+Funcionalidades:
+
+Geração automática de receitas.
+
+Modelos personalizáveis.
+
+Impressão em formato padrão do CRM.
+
+6. 📈 Relatórios Gerenciais
+Funcionalidades:
+
+Vendas por período.
+
+Desempenho de vendedores.
+
+Produtos mais vendidos.
+
+Rentabilidade por marca.
+
+7. ⚙️ Configurações e Administração
+Funcionalidades:
+
+Permissões de usuários (vendedor, gerente, admin).
+
+Personalização de campos.
+
+Backup automático.
+
+🔍 Como Funciona o Fluxo de Uso?
+Cadastra o cliente → Registra histórico de compras e exames.
+
+Realiza orçamento → Seleciona armação + lentes + tratamentos.
+
+Agenda entrega/consulta → Se necessário, marca retorno.
+
+Emite NF-e e laudo → Gera documentação automaticamente.
+
+Acompanha relatórios → Analisa desempenho da ótica.
+
+✅ Pontos Fortes do Vision
+✔ Integração com equipamentos (autorefrator, topógrafo).
+✔ Sistema completo (não precisa de vários softwares).
+✔ Personalização de laudos e recibos.
+
+❌ Possíveis Limitações
+➠ Curva de aprendizado (pode ser complexo para iniciantes).
+➠ Custo mais elevado que sistemas mais simples.
+
+🆚 Comparação Rápida com Outros Sistemas
+Recurso	Vision	Oliveira Sistemas	Sisótica
+Laudos	✅ Sim	❌ Não	❌ Não
+NF-e	✅ Sim	✅ Sim	✅ Sim
+App Móvel	✅ Sim	❌ Não	❌ Não
+Preço	💰💰💰	💰💰	💰
+📌 Conclusão
+O Vision é um dos sistemas mais completos para óticas, especialmente para quem tem clínica integrada e precisa de laudos, agendamentos e controle detalhado. Se sua ótica é pequena ou média, talvez um sistema mais simples (como Oliveira ou Sisótica) seja suficiente.
+
+Quer que eu detalhe algum módulo específico? Ou ajuda para escolher um sistema alternativo? 😊
