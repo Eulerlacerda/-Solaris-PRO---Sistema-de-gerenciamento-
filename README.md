@@ -37,46 +37,6 @@ O **Solaris PRO** é uma solução moderna e inteligente para o gerenciamento co
 
 ---
 
-## 🚀 Como Implementar na Sua Ótica
-
-### 🔧 Configuração do Firebase
-
-1. Crie um projeto no [Firebase Console](https://console.firebase.google.com)
-2. Ative os serviços:
-   - Authentication (Email/Senha)
-   - Firestore Database
-3. Copie as credenciais do Firebase e substitua no código:
-   ```javascript
-   const firebaseConfig = {
-     apiKey: "SUA_API_KEY",
-     authDomain: "SEU_PROJETO.firebaseapp.com",
-     projectId: "SEU_PROJETO",
-     storageBucket: "SEU_PROJETO.appspot.com",
-     messagingSenderId: "SEU_SENDER_ID",
-     appId: "SEU_APP_ID"
-   };
-   firebase.initializeApp(firebaseConfig);
-Crie o usuário administrador manualmente:
-
-E-mail: admin@admin.com
-
-Senha: admin123
-
-⚠️ Após o primeiro login, altere a senha padrão em Configurações > Minha Conta.
-
-👨‍💼 Níveis de Acesso
-Perfil	Permissões
-Administrador	Acesso total a todos os módulos
-Gerente	Vendas, estoque, clientes
-Optometrista	Laudos, agendamentos
-Vendedor	Apenas vendas e clientes
-🛠️ Solução de Problemas Comuns
-E-mail não encontrado: Verifique se digitou corretamente ou contate o administrador.
-
-Senha incorreta: Clique em "Esqueci minha senha" ou tente novamente.
-
-Erro de conexão: Verifique sua internet ou as chaves do Firebase.
-
 📈 Benefícios para Sua Ótica
 Controle total do fluxo de clientes e estoque
 
